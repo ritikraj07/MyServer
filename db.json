@@ -1,3 +1,212 @@
 {
-    "name":"Hello Devil"
+    "Creater_Name":"Greate Ritik",
+    "dummy_data":[
+      {
+        "id": "1",
+        "name": "Ramesh Jena",
+        "Gender": "Male",
+        "address": "Madhapar, Bhuj, Gujarat, India",
+        "profilePicture": "https://cdn.pixabay.com/photo/2015/03/15/23/25/james-stewart-675177_960_720.jpg",
+        "images": [
+          "https://cdn.pixabay.com/photo/2017/01/14/12/48/hotel-1979406_960_720.jpg",
+          "https://cdn.pixabay.com/photo/2020/10/18/09/16/bedroom-5664221_960_720.jpg",
+          "https://cdn.pixabay.com/photo/2016/03/28/09/34/bedroom-1285156_960_720.jpg"
+        ],
+        "location": {
+          "lat": "23.239361",
+          "long": "69.719009"
+        }
+      },
+      {
+        "id": "2",
+        "name": "Tamanna Sarathi",
+        "Gender": "Female",
+        "address": "Idduki, Kerala, India",
+        "profilePicture": "https://cdn.pixabay.com/photo/2016/11/08/05/15/ramayana-festival-1807516_960_720.jpg",
+        "images": [
+          "https://cdn.pixabay.com/photo/2016/11/18/22/21/restaurant-1837150_960_720.jpg",
+          "https://cdn.pixabay.com/photo/2016/10/18/09/02/hotel-1749602_960_720.jpg"
+        ],
+        "location": {
+          "lat": "10.016075",
+          "long": "77.032753"
+        }
+      },
+      {
+        "id": "3",
+        "name": "Palladium Raghuvansi",
+        "Gender": "Female",
+        "address": "The St. Regis Mumbai, Maharashtra, India",
+        "profilePicture": "https://cdn.pixabay.com/photo/2017/06/18/18/26/holi-2416686_960_720.jpg",
+        "images": [
+          "https://cdn.pixabay.com/photo/2019/08/19/13/58/bed-4416515_960_720.jpg"
+        ],
+        "location": {
+          "lat": "18.993652",
+          "long": "72.825218"
+        }
+      },
+      {
+        "id": "4",
+        "name": "Ibis Gill",
+        "Gender": "Male",
+        "address": "Aerocity, IGIA, New Delhi, India",
+        "profilePicture": "https://cdn.pixabay.com/photo/2013/07/18/20/24/brad-pitt-164880_960_720.jpg",
+        "images": [],
+        "location": {
+          "lat": "28.551411",
+          "long": "77.123123"
+        }
+      },
+      {
+        "id": "5",
+        "name": "Ramakanta Barik",
+        "Gender": "Male",
+        "address": "Bengaluru, Karnataka, India",
+        "profilePicture": "https://cdn.pixabay.com/photo/2016/02/25/12/17/smile-1221915_960_720.jpg",
+        "images": [],
+        "location": {
+          "lat": "12.987620",
+          "long": "77.733414"
+        }
+      },
+      {
+        "id": "6",
+        "name": "Neha Singh",
+        "Gender": "Female",
+        "address": "Ratulia, West Bengal, India",
+        "profilePicture": "https://cdn.pixabay.com/photo/2019/01/31/08/02/theatre-3966147_960_720.jpg",
+        "images": [
+          "https://cdn.pixabay.com/photo/2014/10/16/08/39/bedroom-490779_960_720.jpg"
+        ],
+        "location": {
+          "lat": "22.406437",
+          "long": "87.668472"
+        }
+      },
+      {
+        "id": "7",
+        "name": "Digbijaya Singh",
+        "Gender": "Male",
+        "address": "Meerut, Uttar Pradesh, India",
+        "profilePicture": "https://cdn.pixabay.com/photo/2016/03/25/03/03/humphrey-bogart-male-1278138_960_720.jpg",
+        "images": [],
+        "location": {
+          "lat": "28.969727",
+          "long": "77.723862"
+        }
+      },
+      {
+        "id": "8",
+        "name": "Roshan Sah",
+        "Gender": "Male",
+        "address": "Sohra, Meghalaya, India",
+        "profilePicture": "https://cdn.pixabay.com/photo/2018/04/21/18/05/boy-model-3339045_960_720.jpg",
+        "images": [
+          "https://cdn.pixabay.com/photo/2016/09/18/03/28/travel-1677347_960_720.jpg"
+        ],
+        "location": {
+          "lat": "25.262968",
+          "long": "91.731918"
+        }
+      },
+      {
+        "id": "9",
+        "name": "Shankar Gupta",
+        "Gender": "Male",
+        "address": "Madhopur, Punjab, India",
+        "profilePicture": "https://cdn.pixabay.com/photo/2018/04/21/10/44/people-3338167_960_720.jpg",
+        "images": [
+          "https://cdn.pixabay.com/photo/2018/02/24/17/17/window-3178666_960_720.jpg",
+          "https://cdn.pixabay.com/photo/2015/06/12/12/10/castle-park-806854_960_720.jpg"
+        ],
+        "location": {
+          "lat": "32.368473",
+          "long": "75.600082"
+        }
+      },
+      {
+        "id": "10",
+        "name": "Malini Hotta",
+        "Gender": "Female",
+        "address": "JLN Marg, Jaipur, Rajasthan, India",
+        "profilePicture": "https://cdn.pixabay.com/photo/2018/04/29/09/14/portrait-3359403_960_720.jpg",
+        "images": [
+          "https://cdn.pixabay.com/photo/2019/05/28/00/15/indoors-4234071_960_720.jpg"
+        ],
+        "location": {
+          "lat": "26.851822",
+          "long": "75.802292"
+        }
+      },
+      {
+        "id": "11",
+        "name": "Le Chaung",
+        "Gender": "Male",
+        "address": "Netaji Nagar, New Delhi, Delhi, India",
+        "profilePicture": "https://cdn.pixabay.com/photo/2021/06/02/17/34/xiao-zhan-6305038_960_720.jpg",
+        "images": [],
+        "location": {
+          "lat": "28.570414",
+          "long": "77.185265"
+        }
+      },
+      {
+        "id": "12",
+        "name": "Hemraj Gupta",
+        "Gender": "Male",
+        "address": "Solan, Himachal Pradesh, India",
+        "profilePicture": "https://cdn.pixabay.com/photo/2019/06/03/12/29/model-4248873_960_720.jpg",
+        "images": [
+          "https://cdn.pixabay.com/photo/2021/12/11/07/59/hotel-6862159_960_720.jpg",
+          "https://cdn.pixabay.com/photo/2016/12/11/18/10/apartment-1899964_960_720.jpg"
+        ],
+        "location": {
+          "lat": "30.904486",
+          "long": "77.096733"
+        }
+      },
+      {
+        "id": "13",
+        "name": "Roumyanjali",
+        "Gender": "Female",
+        "address": "Kumarakom, Kerala, India",
+        "profilePicture": "https://cdn.pixabay.com/photo/2019/04/16/15/38/indian-4132033_960_720.jpg",
+        "images": [
+          "https://cdn.pixabay.com/photo/2013/07/19/00/18/water-165219_960_720.jpg"
+        ],
+        "location": {
+          "lat": "9.618521",
+          "long": "76.438469"
+        }
+      },
+      {
+        "id": "14",
+        "name": "Sabitri Gouda",
+        "Gender": "Female",
+        "address": "Kuttanadu, Kerala, India",
+        "profilePicture": "https://cdn.pixabay.com/photo/2020/03/30/19/48/indian-girl-4985302_960_720.jpg",
+        "images": [],
+        "location": {
+          "lat": "9.593234",
+          "long": "76.431435"
+        }
+      },
+      {
+        "id": "15",
+        "name": "Carlton Sahu",
+        "Gender": "Male",
+        "address": "Kodihalli, Bangalore, Karnataka, India",
+        "profilePicture": "https://cdn.pixabay.com/photo/2016/12/18/18/17/bollywood-1916450_960_720.jpg",
+        "images": [
+          "https://cdn.pixabay.com/photo/2015/05/09/17/09/towel-759980_960_720.jpg",
+          "https://cdn.pixabay.com/photo/2018/02/13/09/39/modern-minimalist-bathroom-3150293_960_720.jpg"
+        ],
+        "location": {
+          "lat": "12.960878",
+          "long": "77.643951"
+        }
+      }
+    ]
+
 }
