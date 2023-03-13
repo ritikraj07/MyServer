@@ -1,6 +1,4 @@
-{
-    "Creater_Name":"Greate Ritik",
-    "dummy_data":[
+[
       {
         "id": "1",
         "name": "Ramesh Jena",
@@ -208,5 +206,3 @@
         }
       }
     ]
-
-}
