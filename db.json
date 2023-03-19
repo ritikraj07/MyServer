@@ -1,29 +1,55 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "post_image": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcT65UAbLSmI1QIY0iFqxYjEtK23UoCfJ2i3VAAiG40op0Ha6BDux5MUiUQXm-WAhj3wRoKIRgjfdV7ocEw",
+      "name": "Ritik Raj",
+      "image": "https://pbs.twimg.com/profile_images/1561748537519783936/c2qnXVqD_400x400.jpg",
+      "message": "asx",
+      "like": 78,
+      "comment": 5,
+      "id": 6
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "post_image": "https://avatars.githubusercontent.com/u/117502397?v=4",
+      "name": "Ritik Raj",
+      "image": "https://pbs.twimg.com/profile_images/1561748537519783936/c2qnXVqD_400x400.jpg",
+      "message": "asfa",
+      "like": 53,
+      "comment": 63,
+      "id": 7
+    },
+    {
+      "post_image": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcT65UAbLSmI1QIY0iFqxYjEtK23UoCfJ2i3VAAiG40op0Ha6BDux5MUiUQXm-WAhj3wRoKIRgjfdV7ocEw",
+      "name": "Ritik Raj",
+      "image": "https://pbs.twimg.com/profile_images/1561748537519783936/c2qnXVqD_400x400.jpg",
+      "message": "Hello Devil",
+      "like": 51,
+      "comment": 38,
+      "id": 8
     }
   ],
-  "profile": {
-    "name": "typicode"
-  },
   "users": [
     {
       "name": "Ritik Raj",
       "username": "ritikraj07",
       "email": "imritikraj0@gmail.com",
       "password": "123",
-      "image":"skgaks",
-      "id": 1
+      "id": 1,
+      "image": "https://pbs.twimg.com/profile_images/1561748537519783936/c2qnXVqD_400x400.jpg"
+    },
+    {
+      "name": "Ritik",
+      "username": "ritikraj08",
+      "email": "imritikraj0@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "Ritik Raj",
+      "username": "ritikraj",
+      "email": "imritikraj0@gmail.com",
+      "password": "123",
+      "id": 3
     }
   ]
 }
